@@ -34,7 +34,7 @@ Ponto de entrada/saída da rede interna, responsável pela conexão com redes ex
 Responsável por comutar tráfego em alta velocidade entre a borda e a distribuição, sem aplicar políticas complexas. Os switches do core estão interligados por um **link agregado**, garantindo maior banda e redundância.
 
 * `Switch0`
-* `Switch0(2)
+* `Switch0(2)`
 
 
 
