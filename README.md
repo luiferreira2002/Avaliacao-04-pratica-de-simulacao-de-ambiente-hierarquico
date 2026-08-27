@@ -80,3 +80,6 @@ Ponto de conexão direta dos dispositivos finais (PCs, notebooks e servidor) à 
 
 ## Pings
 
+<img width="743" height="1034" alt="Captura de tela 2026-08-27 172043" src="https://github.com/user-attachments/assets/88204cb3-8130-4b9d-9aaf-13f2529c71e5" />
+
+<img width="746" height="1036" alt="Captura de tela 2026-08-27 172117" src="https://github.com/user-attachments/assets/3652d0aa-dc36-480d-ba65-7191c658a9ad" />
