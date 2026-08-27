@@ -74,7 +74,7 @@ Ponto de conexão direta dos dispositivos finais (PCs, notebooks e servidor) à 
 
 ## Topologia
 
-!\[Topologia da Rede](./prints/Capturadetela2026-08-27020238.png)
+<img width="1919" height="1079" alt="Captura de tela 2026-08-27 020238" src="https://github.com/user-attachments/assets/d41881c5-95a9-4796-a134-9e01f5523a43" />
 
 
 
