@@ -74,14 +74,9 @@ Ponto de conexão direta dos dispositivos finais (PCs, notebooks e servidor) à 
 
 ## Topologia
 
-!\[Topologia](prints/Captura de tela 2026-08-27 020238.png)
+!\[Topologia](.prints/Captura de tela 2026-08-27 020238.png)
 
-## ⚙️ Principais Conceitos Aplicados
 
-* ✅ Modelo hierárquico de rede (Edge / Core / Distribuição / Acesso)
-* ✅ Redundância de enlaces entre camadas
-* ✅ Agregação de links no core (EtherChannel)
-* ✅ Prevenção de loops com STP
-* ✅ Segmentação lógica de tráfego por função de camada
-* ✅ Alta disponibilidade e escalabilidade da rede
+
+## Pings
 
