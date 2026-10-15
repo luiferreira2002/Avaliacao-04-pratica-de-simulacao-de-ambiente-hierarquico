@@ -60,12 +60,12 @@ Ponto de conexão direta dos dispositivos finais (PCs, notebooks e servidor) à 
 
 |Camada|Equipamento|Modelo|Quantidade|
 |-|-|-|-|
-|Borda|Roteador|Cisco 2811|1|
+|-|Roteador|Cisco 2811|1|
 |Core|Switch|Switch-PT-Empty|2|
 |Distribuição|Switch|Switch-PT-Empty|2|
-|Acesso|Switch|Cisco 2950-24|4|
-|Host|Desktop|PC-PT|4|
-|Host|Notebook|Laptop-PT|4|
+|Borda|Switch|Cisco 2950-24|4|
+|Desktop|Desktop|PC-PT|4|
+|Notebook|Notebook|Laptop-PT|4|
 |Servidor|Servidor|Server-PT|1|
 
 **Total: 18 dispositivos**
